@@ -6,7 +6,7 @@ My name is Milou4Dev, a developer from Canada with a passion for technology and 
 
 - 🌍  **Location:** Canada
 - ✉️  **Contact:** [Discord](https://discord.gg/nxGw6mSUHc)
-- 🚀  **Current Project:** [DivHandler-DiscordGo-Handler](https://github.com/Milou4Dev/DivHandler-DiscordGo-Handler)
+- 🚀  **Current Project:** [ProjectDGT](https://github.com/Milou4Dev/ProjectDGT)
 - 🧠  **Learning:** AI prompt engineering, Rust, Kotlin
 
 ## Skills
